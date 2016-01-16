@@ -1,1 +1,2 @@
 print("I'm leaving")
+pring("Sit at a car")
